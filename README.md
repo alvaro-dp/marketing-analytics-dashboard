@@ -74,15 +74,27 @@ The system allows identification of:
 
 ## 🖼️ Dashboard Preview
 
-### Executive Overview | Campaign Optimization | Segmentation Analysis
+### Executive Overview
 
-(screen/Marketing Analytics & Campaign Monitoring System.pdf)
+![Executive Overview](screen/executive_overview.png)
+
+---
+
+### Campaign Optimization
+
+![Campaign Optimization](screen/campaign_optimization.png)
+
+---
+
+### Campaign Alerts
+
+![Campaign Alerts](screen/campaign_alerts.png)
 
 ---
 
 ### Star Schema Model
 
-![Star Schema](screen/star_schema_model.png)
+![Star Schema](screen/star_schema_model.PNG)
 
 ---
 

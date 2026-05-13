@@ -82,19 +82,19 @@ The system allows identification of:
 
 ### Campaign Optimization
 
-![Campaign Optimization](screen/campaign_optimization.png)
+![Campaign Optimization](screen/campaign_optimization.jpg)
 
 ---
 
 ### Campaign Alerts
 
-![Campaign Alerts](screen/campaign_alerts.png)
+![Campaign Alerts](screen/campaign_alerts.jpg)
 
 ---
 
 ### Star Schema Model
 
-![Star Schema](screen/star_schema_model.PNG)
+![Star Schema](screen/star_schema_model.jpg)
 
 ---
 

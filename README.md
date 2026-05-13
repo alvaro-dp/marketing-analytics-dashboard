@@ -76,7 +76,7 @@ The system allows identification of:
 
 ### Executive Overview
 
-![Executive Overview](screen/executive_overview.png)
+![Executive Overview](screen/executive_overview.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ The system allows identification of:
 
 ### Star Schema Model
 
-![Star Schema](screen/star_schema_model.jpg)
+![Star Schema](screen/star_schema_model.PNG)
 
 ---
 
